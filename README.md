@@ -9,3 +9,12 @@ Waterfall Model:
 As this process is sequential, once a step has been completed, developers can’t go back to a previous step without scratching the whole project and starting from the beginning. There is no room for change or error, so a project outcome and an extensive plan must be set in the beginning and then followed carefully.
 Agile Model:
 The agile method can provide more flexibility during project development. This method does not require a rigid, sequential framework. Instead, it begins with basic project design, but no outline work to follow. In this model, we can simultaneously work in each stage and if any changes occur in any stage we can change and reflect the changes in all the stages simultaneously and meet the requirements of the client in given time.
+Network Protocols:
+Network protocols are policies comprised of rules, procedures and formats that define communication between two or more devices over a network.
+Types of Protocols:
+Transmission Control Protocol (TCP): Communication between application level and Internet protocol.
+Internet protocol(IP): To send and receive messages at the Internet address level.
+Hypertext Transfer Protocol(HTTP): Data communication for World Wide Web.
+File Transfer Protocol(FTP): Transfer of files between client and server over a network.
+Hypertext Transfer Protocol Secure(HTTPS): Communication channel for secure Communication over a network.
+
